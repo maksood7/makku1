@@ -1,4 +1,4 @@
-#this is a remote repository / remote
+#this is a remote repository
 a = 10
 b = 20
 c = a+b
